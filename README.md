@@ -17,12 +17,12 @@ This package is derived from xmondrian project: https://github.com/rpbouman/xmon
 - XML/A commandline shell
 - XML/A Analyzer and Visualizer
 
-## Connect to sample database from Excel:
+## Connect Microsoft Excel to Mondrian Cube:
 - Open Excel
 - On **DATA** tab select **From Other Sources** item and then select **From Analysis Services**
 - Enter http://localhost:8080/ranetmondrian/xmla as **Server name**
 
-## Connect to sample database from ADOMD.Net application
+## Connect ADOMD.Net application to Mondrian Cube
 To connect to mondrian from ADOMD.Net application you must use folowing connection string:
 
 *Data Source=http://localhost:8080/ranetmondrian/xmla;*
