@@ -4,6 +4,9 @@ Ranet Mondrian is a distribution of the Mondrian (R)OLAP engine version.
 The main feature of this version is support of ADOMD.NET and Excel clients.
 This package is derived from xmondrian project: https://github.com/rpbouman/xmondrian
 
+## Source code
+The source code of the project is in the branch https://github.com/SergeiSemenkov/mondrian/tree/topsoft
+
 ## Deployment
 1. Download *dist/ranetmondrian.war* file.
 2. Copy *ranetmondrian.war* file to *webapps* directory of your java server (Apache Tomcat, Jetty, Tiny Java Web Server).
@@ -26,3 +29,4 @@ This package is derived from xmondrian project: https://github.com/rpbouman/xmon
 To connect to mondrian from ADOMD.Net application you must use folowing connection string:
 
 *Data Source=http://localhost:8080/ranetmondrian/xmla;*
+
