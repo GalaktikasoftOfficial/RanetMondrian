@@ -1,6 +1,6 @@
 # Ranet Mondrian
 
-Mondrian is an OLAP (Online Analytical Processing) server that enables business users to analyze large quantities of data in real-time. Mondrian is a Relation OLAP server (ROAP). To store and manage the warehouse data, the relational OLAP uses relational or extended-relational DBMS.
+Mondrian is an OLAP (Online Analytical Processing) server that enables business users to analyze large quantities of data in real-time. Mondrian is a Relation OLAP server (ROLAP). To store and manage the warehouse data, the relational OLAP uses relational or extended-relational DBMS.
 
 Ranet Mondrian is a distribution of the Mondrian engine version, ready to use.
 
@@ -34,7 +34,7 @@ The source code of the project is in the branch https://github.com/SergeiSemenko
 2. Copy *ranetmondrian.war* file to *webapps* directory of your java server (Apache Tomcat, Jetty, Tiny Java Web Server).
 3. Open RanetMondrian homepage by navigating your browser to http://localhost:8080/ranetmondrian (8080 is port by default).
 
-### RanetMondrian contains: 
+### Ranet Mondrian contains: 
 - Official Mondrian documentation
 - Ranet Mondrian Binaries
 - Configuration files to deploy Ranet Mondrian to a servlet container (like Tomcat, Jetty, etc.)
