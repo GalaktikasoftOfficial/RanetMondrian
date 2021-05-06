@@ -20,6 +20,8 @@ Support the FORE_COLOR and BACK_COLOR cell properties that store color informati
 
 ### High performance
 High performance interactive analysis (Ad hoc) of large volumes of data.
+ROLAP tools analyze large volumes of data across multiple dimensions, highly volatile and changeable data. 
+Ranet Mondrian can be easily used with any existing RDBMS (in BI solutions we use PostgreSQL and pre-calculated aggregate data). 
 
 ### Free and open source
 Ranet Mondrian is free to use under the Eclipse Public License (EPL).
