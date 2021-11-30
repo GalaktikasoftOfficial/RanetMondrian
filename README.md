@@ -13,7 +13,7 @@ This package is derived from xmondrian project: https://github.com/rpbouman/xmon
 
 ### Connect from Microsoft Excel to Mondrian Cube
 Microsoft Excel is the most commonly used data analysis tool. It works great with SSAS OLAP cubes. 
-Using Ranet Mondrian you shoot all oranicheniya Mondrian to work with Microsoft Excel.
+Using Ranet Mondrian you shoot all restrictions Mondrian to work with Microsoft Excel.
 
 ### Advanced Cell Properties 
 Support the FORE_COLOR and BACK_COLOR cell properties that store color information for the text and the background of a cell.
