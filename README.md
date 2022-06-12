@@ -29,7 +29,7 @@ Ranet Mondrian is free to use under the Eclipse Public License (EPL).
 ## Getting Started
 
 ### Source code
-The source code of the project is in the branch https://github.com/SergeiSemenkov/mondrian/tree/topsoft
+The source code of the project is in the branch https://github.com/GalaktikasoftOfficial/mondrian/tree/topsoft
 
 ### Deployment
 1. Download *dist/ranetmondrian.war* file.
